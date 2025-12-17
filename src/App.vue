@@ -1,5 +1,6 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
+//Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 </script>
 
 <template>
