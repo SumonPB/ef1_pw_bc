@@ -3,3 +3,5 @@ import './style.css'
 import App from './App.vue'
 
 createApp(App).mount('#app')
+
+ //Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
